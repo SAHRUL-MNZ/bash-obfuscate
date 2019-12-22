@@ -4,7 +4,7 @@ pkg install nodejs
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/SAHRUL-MNZ/sahrulmnz
+git clone https://github.com/SAHRUL-MNZ/bash-obfuscate
 
 cd obfuscate
 
